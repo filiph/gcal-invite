@@ -1,0 +1,1 @@
+The goal is to have a more user-friendly alternative to http://www.google.com/googlecalendar/event_publisher_guide.html#toc-individual.
